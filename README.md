@@ -17,3 +17,13 @@ void main()
     
 }
 
+<!--And now PHP and JS-->
+
+<?php
+    echo("Hi, I'm CatMoonBread");
+?>
+
+<script>
+    print("hello, I'm CatMoonBread");
+</script>
+
